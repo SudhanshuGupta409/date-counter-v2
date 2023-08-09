@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background: rgb(42, 50, 54);
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
